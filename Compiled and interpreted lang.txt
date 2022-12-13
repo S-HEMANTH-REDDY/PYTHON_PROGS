@@ -1,0 +1,7 @@
+1.	Compiled language follows at least two levels to get from source code to execution where as an Interpreted language follows one step to get from source code to execution.
+2	A compiled language is converted into machine code so that the processor can execute it where as an interpreted language is a language in which the implementations execute instructions directly without earlier compiling a program into machine language.
+3.	The compiled programs run faster than interpreted programs.
+4.	In a compiled language, the code can be executed by the CPU, where as in Interpreted languages the program cannot be compiled, it is interpreted.
+5.	Compiled language delivers better performance where as Interpreted language delivers slower performance.
+6. Example of compiled language – C, C++, C#, CLEO, COBOL, etc.
+   Example of Interpreted language – JavaScript, Perl, Python, BASIC, etc.

@@ -1,0 +1,11 @@
+1.	List are mutable where as Tuples are immutable.
+
+2.	Iterations in Lists are time-consuming where as iterations in tuples are comparatively Faster.
+
+3.	Inserting and deleting items is easier with a list, where as accessing the elements is best accomplished with a tuple data type.
+
+4.	Lists consume more memory where as Tuple consumes less than the list.
+
+5.	Lists have several built-in methods where as tuples does not have many built-in methods because of immutability.
+
+6.	A unexpected change or error is more likely to occur in a list where as in a tuple, changes and errors don't usually occur because of immutability.

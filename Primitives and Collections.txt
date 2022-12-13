@@ -1,0 +1,11 @@
+Primitives
+1.Integer
+2.Float
+3.Boolean
+4.String
+5.Complex
+Collections
+1.List
+2.Tuple
+3.Set
+4.Dictionary
